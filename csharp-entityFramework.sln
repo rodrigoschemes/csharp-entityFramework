@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-entityFramework", "csharp-entityFramework\csharp-entityFramework.csproj", "{614A7547-1DA2-43A3-9049-0452608D318F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614A7547-1DA2-43A3-9049-0452608D318F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614A7547-1DA2-43A3-9049-0452608D318F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614A7547-1DA2-43A3-9049-0452608D318F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614A7547-1DA2-43A3-9049-0452608D318F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22AFC532-C398-4E68-BBA7-00E6E1318F7F}
+	EndGlobalSection
+EndGlobal
